@@ -71,3 +71,8 @@ Encourage migration to long-term contracts.
 Enhance the Fiber optic customer experience.
 Promote Tech Support adoption.
 Incentivize customers to switch to automatic payment methods.
+
+
+📊 Dashboard Preview
+<img width="1297" height="730" alt="Screenshot 2026-06-16 141300" src="https://github.com/user-attachments/assets/243badb7-8e91-4475-aa8e-8180f39df803" />
+
